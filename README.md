@@ -1,7 +1,7 @@
 ### Как юзать в юните
 
-
-```[Unit]
+```
+[Unit]
 Description=NS2 Server 1
 After=network.target
 
