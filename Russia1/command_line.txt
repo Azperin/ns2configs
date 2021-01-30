@@ -1,0 +1,30 @@
+﻿-name "RUSSIA #1"
+-port 27015
+-config_path "/home/ns2server/.config/ns2configs/Russia1/"
+-logdir "/home/ns2server/.config/ns2configs/Russia1/logs/"
+-map "ns2_veil"
+-limit "20"
+-mods "706d242 C6FBBB0 B7149F9 72C5FD4E 2EBEDABC"
+-speclimit 6
+
+
+/*
+-webadmin
+-webport
+
+Mods:
+Shine Administration: Mod ID “706d242" // https://github.com/Person8880/Shine/wiki
+NSL Mod: Mod ID "a2ddae8"
+[Shine] Epsilon: Mod ID "C6FBBB0" // https://github.com/GhoulofGSG9/Shine-Epsilon/wiki
+[Shine] Wonitor: Mod ID "235ee3a6"
+Badges+: Mod ID "B7149F9"
+Mod Panels: Mod ID "33c898b2" 
+ENSL CompMod: Mod ID "6fd4cd9c"
+UWE Extension: Mod ID "4241B84E"
+SentinelAI: Mod ID "6eef2477"
+[Shine] Mod Selector: Mod ID "2CBEA77A"
+[Shine] Permamute: Mod ID "2EBEDABC"
+NS2RUS: Badges & Panels: Mod ID "6337C8B9"
+[Shine] Tier Info: Mod ID "72C5FD4E"
+
+*/

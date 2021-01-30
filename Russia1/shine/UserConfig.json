@@ -1,0 +1,34 @@
+{
+    "Groups": {
+        "admin_group": {
+            "Commands": [],
+            "Immunity": 10,
+            "IsBlacklist": true
+        },
+        "mod_group": {
+            "Commands": [
+				"sh_permamute"
+                "sh_kick",
+				"sh_eject",
+                "sh_listbans",
+                "sh_status",
+				"sh_who",
+				"sh_stopvote",
+				"sh_customvote",
+				"sh_say",
+				"sh_pm",
+				"sh_alltalkpregame"
+            ],
+            "Immunity": 9,
+            "IsBlacklist": false
+        }
+    },
+    "Users": {
+        "35141957": {
+            "Group": "admin_group"
+        },
+        "49650612": {
+            "Group": "admin_group"
+        }
+    }
+}

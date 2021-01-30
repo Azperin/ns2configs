@@ -1,0 +1,26 @@
+{
+    "Delay": 1,
+    "IgnoreSpectators": true,
+    "KickOnConnect": true,
+    "KickTimeInMinutes": 2,
+    "KickTimeIsAFKThreshold": 0.4,
+    "Leniency": {
+        "NoImmunity": "STRICT",
+        "PartialImmunity": "STRICT"
+    },
+    "LogLevel": "INFO",
+    "MarkPlayersAFK": true,
+    "MinPlayers": 17,
+    "MovementDelaySeconds": 0,
+    "OnlyCheckOnStarted": false,
+    "PlayerCountRules": [],
+    "SampleIntervalInSeconds": 0.2,
+    "Warn": true,
+    "WarnActions": {
+        "NoImmunity": ["NOTIFY"],
+        "PartialImmunity": []
+    },
+    "WarnMinPlayers": 12,
+    "WarnTimeInMinutes": 1,
+    "__Version": "1.10"
+}

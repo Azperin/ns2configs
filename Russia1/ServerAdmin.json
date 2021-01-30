@@ -1,0 +1,16 @@
+{
+	"groups": {
+		"mod_group": {
+			"commands": [ "sv_kick", "sv_listbans", "sv_status" ],
+			"type": "allowed"
+		},
+		"admin_group": {
+			"commands": [  ],
+			"type": "disallowed"
+		}
+	},
+	"users": {
+		"CЯaZyCAT": { "id": 49650612, "groups": [ "admin_group" ] },
+		"Can": { "id": 35141957, "groups": [ "admin_group" ] }
+	}
+}

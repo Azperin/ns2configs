@@ -1,0 +1,29 @@
+{
+
+"mode": "order",
+
+"maps": [
+{ "map": "ns2_descent",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_summit",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_tram",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_veil",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_kodiak",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_docking",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_mineshaft",	"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_refinery"		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_biodome",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_eclipse",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_derelict",	"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_metro",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_origin",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_unearthed",	"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_caged",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_jambi",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_mineral",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] },
+{ "map": "ns2_nexus",		"mods": [ "706d242", "C6FBBB0", "B7149F9", "72C5FD4E", "2EBEDABC" ] }
+
+],
+
+"time": 80,
+
+}
