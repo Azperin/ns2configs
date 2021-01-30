@@ -14,4 +14,5 @@ User=ns2server
 Group=ns2server
 
 [Install]
-WantedBy=multi-user.target```
+WantedBy=multi-user.target
+```
