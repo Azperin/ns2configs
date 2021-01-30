@@ -1,6 +1,6 @@
 ### Как юзать в юните
 
-```
+```bash
 [Unit]
 Description=NS2 Server 1
 After=network.target
