@@ -14,7 +14,7 @@
     "MovementDelaySeconds": 0,
     "OnlyCheckOnStarted": false,
     "PlayerCountRules": [],
-    "SampleIntervalInSeconds": 0.2,
+    "SampleIntervalInSeconds": 1,
     "Warn": true,
     "WarnActions": {
         "NoImmunity": ["NOTIFY"],
