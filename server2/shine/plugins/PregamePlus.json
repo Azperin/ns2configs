@@ -1,0 +1,24 @@
+{
+    "AllowCommanding": true,
+    "AllowMines": true,
+    "AllowOnosExo": true,
+    "AllowStructureDamage": true,
+    "CheckLimit": true,
+    "ExtraMessageLine": "",
+    "LimitToggleDelay": 30,
+    "PlayerLimit": 8,
+    "PregameAlienUpgradesLevel": 3,
+    "PregameArmorLevel": 3,
+    "PregameBiomassLevel": 9,
+    "PregameWeaponLevel": 3,
+    "StatusTextColour": [ 0, 255, 255 ],
+    "StatusTextPosX": 0.05,
+    "StatusTextPosY": 0.45,
+    "Strings": {
+        "Countdown": "Pregame \"Sandbox\" - Mode turning %s in %s.",
+        "Limit": "Turns %s when %s %s players.",
+        "NoLimit": "No player limit.",
+        "Status": "Pregame \"Sandbox\" - Mode is %s. A match has not started."
+    },
+    "__Version": "1.4"
+}

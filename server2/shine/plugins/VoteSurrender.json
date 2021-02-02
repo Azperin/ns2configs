@@ -1,0 +1,15 @@
+{
+    "AllowVoteWithMultipleBases": true,
+    "FractionOfPlayersNeeded": 0.75,
+    "FractionOfPlayersNeededInEarlyGame": 0.85,
+    "LastCommandStructureMinHealthFraction": 0,
+    "MinPlayers": 4,
+    "SkipSequence": false,
+    "VoteDelayInMinutes": 4,
+    "VoteSettings": {
+        "AFKTimeInSeconds": 60,
+        "ConsiderAFKPlayersInVotes": true
+    },
+    "VoteTimeoutInSeconds": 120,
+    "__Version": "1.6"
+}

@@ -1,0 +1,13 @@
+{
+    "Accepted": [],
+    "Delay": 5,
+    "MessageColour": [ 255, 255, 255 ],
+    "MessageText": [
+        "Добро пожаловать на наш новый сервер!",
+        "Admins are Anriller, CRaZyCAT and Can",
+        "discord.gg/WwdpdAE"
+    ],
+    "Mode": "TEXT_ON_CONNECT",
+    "URL": "http://ns2.jeskay.ru/#/",
+    "__Version": "1.3"
+}

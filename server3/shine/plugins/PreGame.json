@@ -1,0 +1,13 @@
+{
+    "AbortIfNoCom": true,
+    "AllowAttackPreGame": true,
+    "AutoAddCommanderBots": false,
+    "CountdownTimeInSeconds": 15,
+    "LogLevel": "INFO",
+    "MinPlayers": 0,
+    "Mode": "ONE_COMMANDER_COUNTDOWN",
+    "PreGameTimeInSeconds": 420,
+    "ShowCountdown": true,
+    "StartDelayInSeconds": 100,
+    "__Version": "1.8"
+}

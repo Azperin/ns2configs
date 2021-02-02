@@ -1,7 +1,7 @@
-﻿-name "Russia 1 (RU)"
--port 27015
--config_path "/home/ns2server/.config/ns2configs/server1/"
--logdir "/home/ns2server/.config/ns2configs/server1/logs/"
+﻿-name "Russia 2 (RU)"
+-port 27017
+-config_path "/home/ns2server/.config/ns2configs/server2/"
+-logdir "/home/ns2server/.config/ns2configs/server2/logs/"
 -map "ns2_veil"
 -limit "20"
 -mods "706d242 C6FBBB0 B7149F9 72C5FD4E 2EBEDABC"

@@ -1,0 +1,10 @@
+{
+    "QueueHistoryLifeTime": 300,
+    "QueuePositionMaxReservationTime": 300,
+    "RestoreQueueAfterMapchange": true,
+    "VIPPlayers": {
+        "Enabled": false,
+        "PermissionString": "sh_vip"
+    },
+    "__Version": "1.0"
+}

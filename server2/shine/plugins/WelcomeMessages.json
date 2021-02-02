@@ -1,0 +1,21 @@
+{
+    "MessageDelay": 5,
+    "ShowForBots": false,
+    "ShowGeneric": false,
+    "Users": {
+      "90000001": {
+        "Leave": "Bob is off to fight more important battles.",
+        "Welcome": {
+          "Prefix": "[Oh noes!]",
+          "PrefixColour": [ 255, 0, 0 ],
+          "Message": "Bob has joined the party!",
+          "Colour": [ 255, 255, 255 ],
+        }
+      },
+      "123456": {
+        "Leave": "Joe says goodbye!",
+        "Welcome": "Have no fear, Joe is here!"
+      },
+    },
+    "__Version": "1.4"
+}

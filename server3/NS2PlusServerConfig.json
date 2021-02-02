@@ -1,0 +1,7 @@
+{
+  "autodisplayendstats":true,
+  "allow_deathstats":true,
+  "endstatsteambreakdown":true,
+  "allow_mapparticles":true,
+  "savestats":true
+}

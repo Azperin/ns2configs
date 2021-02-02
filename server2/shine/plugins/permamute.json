@@ -1,0 +1,8 @@
+{
+    "AllTalk": false,
+    "AllTalkLocal": false,
+    "AllTalkPreGame": false,
+    "AllTalkSpectator": false,
+    "PermamuteFile": "config://PermamutedPlayers.json",
+    "__Version": "1.0"
+}

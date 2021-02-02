@@ -1,0 +1,22 @@
+{
+    "AllowSpectating": true,
+    "BlockCC": true,
+    "BlockMessage": "This server is not rookie friendly",
+    "BlockTeams": true,
+    "MinPlaytime": 8,
+    "MinComPlaytime": 2,
+    "MinPlayer": 14,
+    "Debug": false,
+    "DisableAfterRoundtime": 0,
+    "InformMessage": "This server is not rookie friendly",
+    "Kick": false,
+    "KickMessage": "You will be kicked in %s seconds",
+    "Kicktime": 20,
+    "LastPluginVersion": "1.7",
+    "MinPlayerCom": 0,
+    "ShowInform": true,
+    "ShowSwitchAtBlock": false,
+    "UseSteamTime": true,
+    "WaitMessage": "Please wait while we fetch your stats.",
+    "__Version": "1.7"
+}
