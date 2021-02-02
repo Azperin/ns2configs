@@ -2,8 +2,9 @@
 /*/shine/logs
 /*/shine/temp
 /*/NS2Plus
-/*/logs
+
 /*/BannedPlayers.json
-/*/ConsistencyConfig.json
-/*/ServerAdmin.json
 /*/ReservedSlotsConfig.json
+
+# whitelisting 
+/*/ConsistencyConfig.json
